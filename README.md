@@ -26,13 +26,13 @@ Installation:
 
 File structure<br/>
 /root<br/>
---/images<br/>
-----/(your galery folder)<br/>
-------(your images)<br/>
---/thumbs<br/>
-----(auto created thumbnails for images of the images folder)<br/>
-icon.png<br/>
-php_gallery0.8.php<br/>
+-- /images<br/>
+---- /(your galery folder)<br/>
+------ (your images)<br/>
+-- /thumbs<br/>
+---- (auto created thumbnails for images of the images folder)<br/>
+-- icon.png<br/>
+-- php_gallery0.8.php<br/>
 <br/>
 (1) Create file structure and upload icon.png and php_gallery0.8.php<br/>
 (2) Give access rights (rwx/777) to php_gallery0.8.php and /thumbs<br/>
