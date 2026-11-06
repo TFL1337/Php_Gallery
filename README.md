@@ -2,6 +2,8 @@ A simple and lightweight solution for running a photo gallery using PHP, Vue.js 
 
 <b>Version 0.8 / 2026-11-06</b>
 
+See the gallery in action: https://tobias.langkau.biz/foto2/
+
 <b>Core features:</b>
 - Easy to host with minimum of configuration and installation
 - Responsive web design for multi device usage
