@@ -8,3 +8,14 @@ Core features:
   - On the fly index for image attributes and stastic creation
   - Rich filter options on image attributs
   - Image slideshow
+
+Preview:
+Galery
+<img width="1120" height="641" alt="image" src="https://github.com/user-attachments/assets/d942e558-c997-4d8d-a31d-62acec76b771" />
+
+Statistics and filter options
+<img width="1102" height="858" alt="image" src="https://github.com/user-attachments/assets/25e46ae9-aa52-4b73-9ad0-e7d07ab886bf" />
+
+Meta data
+<img width="1118" height="779" alt="image" src="https://github.com/user-attachments/assets/0e6eae9a-0cb2-48ab-a4c6-77228f05f520" />
+
