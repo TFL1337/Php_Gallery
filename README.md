@@ -37,4 +37,4 @@ php_gallery0.8.php<br/>
 (1) Create file structure and upload icon.png and php_gallery0.8.php<br/>
 (2) Give access rights (rwx/777) to php_gallery0.8.php and /thumbs<br/>
 (3) Copy your photos to /images<br/>
-(4) Start php_gallery0.8.php and let the script to the job!<br/>
+(4) Start php_gallery0.8.php and let the script do the job!<br/>
