@@ -1,8 +1,8 @@
 A simple and lightweight solution for running a photo gallery using PHP, Vue.js and charts.js.
 
-Version 0.8 / 2026-11-06
+<b>Version 0.8 / 2026-11-06</b>
 
-Core features:
+<b>Core features:</b>
 - Easy to host with minimum of configuration and installation
 - Responsive web design for multi device usage
 - Easy in use with core gallery features
@@ -12,8 +12,8 @@ Core features:
   - Image slideshow
 - Enabled App installation on Android
 
-Preview:
-Galery
+<b>Previews:</b><br/>
+Gallery
 <img width="1120" height="641" alt="image" src="https://github.com/user-attachments/assets/d942e558-c997-4d8d-a31d-62acec76b771" />
 
 Statistics and filter options
@@ -22,7 +22,7 @@ Statistics and filter options
 Meta data
 <img width="1118" height="779" alt="image" src="https://github.com/user-attachments/assets/0e6eae9a-0cb2-48ab-a4c6-77228f05f520" />
 
-Installation:
+<b>Installation:</b>
 
 File structure<br/>
 /root<br/>
